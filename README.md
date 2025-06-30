@@ -10,13 +10,6 @@ How to Run:
 1.cd color-personality-decoder //make a folder and change directory 
 2.javac ColorPersonality.java //Compile the java file
 3.java ColorPersonality //Run the java file
-FEATURES:Color Personality Decoder
-Enter your favorite color and get personality insights based on psychology and symbolism.
-Mini Personality Quiz:A quick 2-question quiz to help suggest a color that matches your vibe.
-Mood Responder:Based on your current mood (happy, sad, stressed, etc.), you get a comforting message.
-Random Color Fun Fact:Displays one interesting fact about a color on every run.
-Replay Option:Try again without restarting the program manually.
-
 Sample OUTPUT:
  Welcome to the Color Personality Decoder!
 What's your name? rina
