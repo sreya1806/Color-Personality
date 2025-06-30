@@ -6,7 +6,7 @@ Libraries Used:
 java.util.Scanner for user input
 java.util.Random for fun fact selection
 java.time.LocalDate and java.time.DayOfWeek for dynamic day-based messages
-How to Run:
+                                                                       How to Run:
 1.cd color-personality-decoder //make a folder and change directory 
 2.javac ColorPersonality.java //Compile the java file
 3.java ColorPersonality //Run the java file
